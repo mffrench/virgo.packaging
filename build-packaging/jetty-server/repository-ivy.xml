@@ -34,7 +34,6 @@
 		<dependency org="org.eclipse.virgo.mirrored" name="org.slf4j.log4j" rev="${org.slf4j.log4j}" conf="ext->runtime"/>	
 		<dependency org="org.eclipse.virgo.mirrored" name="org.slf4j.jul" rev="${org.slf4j.jul}" conf="ext->runtime"/>
 		<dependency org="org.springframework" name="org.springframework.aop" rev="${org.springframework}" conf="ext->runtime"/>
-		<dependency org="org.springframework" name="org.springframework.asm" rev="${org.springframework}" conf="ext->runtime"/>		
 		<dependency org="org.springframework" name="org.springframework.aspects" rev="${org.springframework}" conf="ext->runtime"/>
 		<dependency org="org.springframework" name="org.springframework.beans" rev="${org.springframework}" conf="ext->runtime"/>
 		<dependency org="org.springframework" name="org.springframework.context" rev="${org.springframework}" conf="ext->runtime"/>
