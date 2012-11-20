@@ -3,8 +3,8 @@
 	<classpathentry kind="src" path="src/test/java"/>
 	<classpathentry kind="src" path="src/main/java"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="var" path="IVY_CACHE/org.springframework/org.springframework.web/3.1.0.RELEASE/org.springframework.web-3.1.0.RELEASE.jar"/>
-	<classpathentry kind="var" path="IVY_CACHE/org.springframework/org.springframework.web.servlet/3.1.0.RELEASE/org.springframework.web.servlet-3.1.0.RELEASE.jar"/>
-	<classpathentry kind="var" path="IVY_CACHE/org.springframework/org.springframework.context/3.1.0.RELEASE/org.springframework.context-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="var" path="IVY_CACHE/org.springframework/org.springframework.web/3.2.0.RC1/org.springframework.web-3.2.0.RC1.jar"/>
+	<classpathentry kind="var" path="IVY_CACHE/org.springframework/org.springframework.web.servlet/3.2.0.RC1/org.springframework.web.servlet-3.2.0.RC1.jar"/>
+	<classpathentry kind="var" path="IVY_CACHE/org.springframework/org.springframework.context/3.2.0.RC1/org.springframework.context-3.2.0.RC1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
