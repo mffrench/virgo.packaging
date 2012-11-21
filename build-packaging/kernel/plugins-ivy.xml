@@ -17,7 +17,7 @@
 		<dependency org="org.eclipse.osgi" name="org.eclipse.equinox.http" rev="${org.eclipse.equinox.http}" conf="plugins->runtime" />
 		<dependency org="org.eclipse.virgo.mirrored" name='org.eclipse.equinox.region' rev='${org.eclipse.equinox.region}' conf="plugins->runtime" />
 		<dependency org="org.eclipse.virgo.mirrored" name="com.springsource.org.aspectj.weaver" rev="${org.aspectj}" conf="plugins->runtime" />
-		<dependency org="org.springframework" name="org.springframework.context.support"
+		<dependency org="org.springframework" name="org.springframework.expression"
 			rev="${org.springframework}" conf="plugins->runtime"/>
 		
 		<!-- The exclude of Equinox (org="org.eclipse.osgi" module="org.eclipse.osgi") does not work. 
