@@ -33,7 +33,7 @@
         <property name="signpoll" value="ssh" />
         <property name="signhost" value="build.eclipse.org" />
         <property name="signquote" value="&quot;" />
-        <property name="archiveName" value="org.apache.openejb.core_4.0.0.beta-2_v201205260545-virgo-3.jar" />
+        <property name="archiveName" value="org.apache.openejb.core_4.0.0.beta-2_v201205260545-virgo-4.jar" />
         <property name="signpollline" value="${eclipse.committerId}@${signhost} ${signquote}cd ${stagingDirectoryOutput};ls ${archiveName}${signquote}" />
         
         <echo message="DEBUG: signing - signpoll: ${signpoll}" />
